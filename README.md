@@ -40,4 +40,5 @@ Projects, source code, technical documentation and simulation results will be ad
 
 ## Objective
 
+
 To build practical engineering experience and develop solutions combining robotics, automation, artificial intelligence and smart manufacturing.
