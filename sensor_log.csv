@@ -1,0 +1,11 @@
+sensor,value,unit
+Temperature,35,C
+Distance,45,cm
+Battery,80,%
+Temperature,38,C
+Pressure,100.5,kPa
+Temperature,39,C
+Temperature,40,C
+Temperature,41,C
+Temperature,42,C
+Temperature,28,C
