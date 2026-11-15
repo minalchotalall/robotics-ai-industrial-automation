@@ -1,0 +1,7 @@
+reading,temperature,distance,battery,status
+1,35,50,90,NORMAL
+2,42,35,75,WARNING
+3,38,15,60,WARNING
+4,52,8,25,CRITICAL
+5,30,45,12,CRITICAL
+6,45,25,55,WARNING
