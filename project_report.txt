@@ -1,0 +1,6 @@
+PROJECT REPORT
+====================
+Project folder: /home/minal/robotics-ai-industrial-automation
+Python files: 0
+CSV files: 1
+Total file size: 6389 bytes

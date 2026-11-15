@@ -1,0 +1,6 @@
+PROJECT REPORT
+====================
+Project folder: /home/minal/robotics-ai-industrial-automation/01_python_cpp_linux/01_python_fundamentals/exercises
+Python files: 9
+CSV files: 0
+Total file size: 12700 bytes
